@@ -3,4 +3,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:7001/eureka
 config:
-  info: Master http://www.baiduhwz.com_dev_environment version1.0
+  info: Master http://www.baiduhwz.com_dev_environment version2.0
